@@ -50,7 +50,7 @@ Clone the project
 
 
 ```bash
-  git clone https://github.com/007xylogramori/Hackshare-Backend
+  git clone https://github.com/priyansh7124/Hackshare-Backend
 ```
 
 Install dependencies
